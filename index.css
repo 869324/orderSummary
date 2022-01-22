@@ -92,16 +92,16 @@ h1 {
     font-weight: 500;
 }
 
-#cancel:active {
+#cancel:hover {
     color: black;
 }
 
-a:active {
+a:hover {
     text-decoration: unset;
     opacity: 0.85;
 }
 
-#proceed:active {
+#proceed:hover {
     opacity: 0.85;
 }
 
